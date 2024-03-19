@@ -1,0 +1,43 @@
+.skills {
+  padding: 20px;
+  background-color: #f9f9f9;
+  font-family: 'Roboto', sans-serif;  
+  font-size: 10px;  
+  line-height: 1.5;  
+}
+
+.skills h2 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.skills ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.skills li {
+  font-size: 18px;
+  margin-bottom: 8px;
+}
+
+.tarjetas {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+/* Estilos para las tarjetas (ya definidos en el CSS de la tarjeta) */
+.tarjeta {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  margin-bottom: 20px;
+  background-color: #fff;
+  transition: box-shadow 0.3s ease;
+  width: calc(50% - 20px);
+   margin-right: 20px;
+ }
+
+ 

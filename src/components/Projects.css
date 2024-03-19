@@ -1,0 +1,77 @@
+/* Projects.css */
+
+.project {
+  padding: 20px;
+  background-color: #6E07F3;
+  font-family: 'Roboto', sans-serif;
+  font-size: 10px;
+  line-height: 1.5;
+  text-align: center;
+}
+
+.titulo {
+  color: white;
+  font-size: 24px;
+}
+
+.card-container {
+  display: flex;
+  flex-wrap: nowrap; /* Evita que las tarjetas se envuelvan a la siguiente línea */
+  overflow-x: auto; /* Agrega un scroll horizontal si las tarjetas no caben en la pantalla */
+  gap: 20px; /* Espacio entre las tarjetas */
+  padding-bottom: 20px; /* Espacio al final del contenedor */
+}
+
+.card {
+  width: calc(25% - 20px); /* 25% del ancho total del contenedor con un espacio de 20px de separación */
+  padding: 15px;
+  border-radius: 8px;
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+  background-color: #fff;
+  text-align: center;
+}
+
+.card img {
+  max-width: 100%;
+  border-radius: 8px;
+  margin-bottom: 10px;
+}
+
+.card h3 {
+  margin-bottom: 10px;
+  font-size: 18px;
+}
+
+.card ul {
+  list-style: none;
+  padding: 0;
+  margin-bottom: 20px;
+}
+
+.card ul li {
+  display: inline-block;
+  margin-right: 10px;
+  padding: 5px 10px;
+  background-color: #f0f0f0;
+  border-radius: 20px;
+  font-size: 0.9rem;
+}
+
+.botones-container {
+  display: flex;
+  justify-content: center;
+}
+
+.botones-container button {
+  padding: 8px 16px;
+  border: none;
+  border-radius: 5px;
+  background-color: #007bff;
+  color: #fff;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.botones-container button:hover {
+  background-color: #0056b3;
+}

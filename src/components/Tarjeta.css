@@ -1,0 +1,28 @@
+.tarjeta {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  margin-bottom: 20px;
+  display: inline-block;
+  background-color: #fff;
+  transition: box-shadow 0.3s ease;
+  width: 200px; 
+  height: 300px;  
+}
+
+.tarjeta:hover {
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.tarjeta h2 {
+  font-size: 20px;
+  margin-bottom: 10px;
+  color: #333;
+}
+
+.tarjeta p {
+  font-size: 16px;
+  line-height: 1.6;
+  color: #666;
+}

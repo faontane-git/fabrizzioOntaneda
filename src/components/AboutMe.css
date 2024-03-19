@@ -1,0 +1,14 @@
+
+.aboutMe {
+    background-color: #6E07F3;
+    color: white;
+  }
+
+  .info {
+    font-family: 'Roboto', sans-serif;  
+    font-size: 10px;  
+    line-height: 1.5;  
+    text-align: center;
+    padding: 200px;  
+  }
+  
