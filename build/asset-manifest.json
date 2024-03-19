@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/presentacion/build/static/css/main.3d855d25.css",
+    "main.js": "/presentacion/build/static/js/main.b9c69bcf.js",
+    "static/js/453.218a6b31.chunk.js": "/presentacion/build/static/js/453.218a6b31.chunk.js",
+    "static/media/proyecto2.png": "/presentacion/build/static/media/proyecto2.46d3acfff1d376a59c48.png",
+    "static/media/proyecto4.png": "/presentacion/build/static/media/proyecto4.af5406980a56f73c3720.png",
+    "static/media/Fabrizzio Ontaneda_CV.pdf": "/presentacion/build/static/media/Fabrizzio Ontaneda_CV.2a9608c97dab9d2f9315.pdf",
+    "static/media/img1.jpg": "/presentacion/build/static/media/img1.df7dc16c72e97590dba7.jpg",
+    "static/media/proyecto3.png": "/presentacion/build/static/media/proyecto3.6de2653a318e15c8be8d.png",
+    "static/media/emp2.jpg": "/presentacion/build/static/media/emp2.65fff0b9fa9fde02debc.jpg",
+    "static/media/img2.svg": "/presentacion/build/static/media/img2.ca82e97c349a897082b6268dd7f8d733.svg",
+    "static/media/emp4.jpg": "/presentacion/build/static/media/emp4.6642f191975c3b67680c.jpg",
+    "static/media/proyecto1.jpg": "/presentacion/build/static/media/proyecto1.be5ead43e390e3e7c02d.jpg",
+    "index.html": "/presentacion/build/index.html",
+    "main.3d855d25.css.map": "/presentacion/build/static/css/main.3d855d25.css.map",
+    "main.b9c69bcf.js.map": "/presentacion/build/static/js/main.b9c69bcf.js.map",
+    "453.218a6b31.chunk.js.map": "/presentacion/build/static/js/453.218a6b31.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d855d25.css",
+    "static/js/main.b9c69bcf.js"
+  ]
+}
