@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/fabrizzioOntaneda/static/css/main.a03a7cdc.css",
-    "main.js": "/fabrizzioOntaneda/static/js/main.ee95e2f3.js",
+    "main.css": "/fabrizzioOntaneda/static/css/main.79dde440.css",
+    "main.js": "/fabrizzioOntaneda/static/js/main.122652d6.js",
     "static/js/453.218a6b31.chunk.js": "/fabrizzioOntaneda/static/js/453.218a6b31.chunk.js",
     "static/media/proyecto2.png": "/fabrizzioOntaneda/static/media/proyecto2.46d3acfff1d376a59c48.png",
     "static/media/proyecto4.png": "/fabrizzioOntaneda/static/media/proyecto4.af5406980a56f73c3720.png",
@@ -13,12 +13,12 @@
     "static/media/emp4.jpg": "/fabrizzioOntaneda/static/media/emp4.6642f191975c3b67680c.jpg",
     "static/media/proyecto1.jpg": "/fabrizzioOntaneda/static/media/proyecto1.be5ead43e390e3e7c02d.jpg",
     "index.html": "/fabrizzioOntaneda/index.html",
-    "main.a03a7cdc.css.map": "/fabrizzioOntaneda/static/css/main.a03a7cdc.css.map",
-    "main.ee95e2f3.js.map": "/fabrizzioOntaneda/static/js/main.ee95e2f3.js.map",
+    "main.79dde440.css.map": "/fabrizzioOntaneda/static/css/main.79dde440.css.map",
+    "main.122652d6.js.map": "/fabrizzioOntaneda/static/js/main.122652d6.js.map",
     "453.218a6b31.chunk.js.map": "/fabrizzioOntaneda/static/js/453.218a6b31.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a03a7cdc.css",
-    "static/js/main.ee95e2f3.js"
+    "static/css/main.79dde440.css",
+    "static/js/main.122652d6.js"
   ]
 }
