@@ -33,7 +33,7 @@ function Projects() {
     },
     {
       id: 4,
-      title: 'Segmentacion de Imagenes Aplicado a Personas',
+      title: 'Segmentación de Imágenes Aplicado a Personas',
       description: 'Proyecto de segmentación de imágenes para identificar personas',
       imageUrl: proy4,
       git: 'https://github.com/AndresN17/proyectoDIP.git',
@@ -42,8 +42,8 @@ function Projects() {
   ];
 
   return (
-    <section className="project">
-      <div className='titulo'>
+    <section className="projects">
+      <div className="title">
         <h2>Proyectos</h2>
       </div>
       <div className="card-container">
@@ -52,7 +52,7 @@ function Projects() {
             <img src={project.imageUrl} alt={project.title} />
             <h3>{project.title}</h3>
             <p>{project.description}</p>
-            <div>
+            <div className="tools">
               <strong>Herramientas</strong>
               <ul>
                 {project.tools.map((tool, index) => (
@@ -60,7 +60,7 @@ function Projects() {
                 ))}
               </ul>
             </div>
-            <div className="botones-container">
+            <div className="button-container">
               <a href={project.git} target="_blank" rel="noopener noreferrer">
                 <button>Github</button>
               </a>

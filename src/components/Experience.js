@@ -5,7 +5,6 @@ import emp2 from '../recursos/emp2.jpg';
 import emp3 from '../recursos/emp3.png';
 import emp4 from '../recursos/emp4.jpg';
 
-
 function Experience() {
 
     const EventoTimeline = ({ fecha, titulo, empresa, descripcion, imagen }) => (
@@ -28,7 +27,7 @@ function Experience() {
         {
             fecha: '02/10/2023 – 02/02/2024',
             titulo: 'Desarrollador de software',
-            empresa: 'Banco de alimentos "Diakonía',
+            empresa: 'Banco de alimentos "Diakonía"',
             descripcion: 'Trabajando en el desarrollo de aplicaciones web utilizando tecnologías como React, Node.js y MongoDB.',
             imagen: emp1,
         },
@@ -72,7 +71,6 @@ function Experience() {
             </div>
         </section>
     );
-
 }
 
 export default Experience;
